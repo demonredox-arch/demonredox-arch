@@ -1,4 +1,4 @@
-# Hi, I'm demonredox-arch 👋
+#Software Engineering Undergraduate | Full-Stack Developer | UI/UX Designer | C#/.NET | SQL | Front-End Developer | Database Design | Creative Problem Solver | Passionate about AI & Innovation 
 
 ---
 
